@@ -23,6 +23,14 @@ Papel de parede interativo para Windows no estilo arcade retrô: uma Brasília a
 
 > Também dá para abrir o `index.html` no navegador e apertar **F11**. Nesse modo o rádio não recebe a música, porque essa informação vem do Lively.
 
+## Versão Minimal
+
+Só a corrida, com relógio e data. Não tem velocímetro, conta-giros, clima, rádio nem notificações, não acessa a internet e não lê dados do sistema.
+
+![Prévia da versão Minimal](docs/preview-minimal.jpg)
+
+**[⬇️ Baixe o in-santos-minimal.zip](https://github.com/elielreinan/in-santos-wallpaper/raw/main/dist/in-santos-minimal.zip)** e instale do mesmo jeito. Os arquivos ficam na pasta [`minimal/`](minimal/).
+
 ## Configuração
 
 No topo do `index.html` há o bloco `CONFIG`:

@@ -1,0 +1,14 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "In Santos Minimal",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": null,
+  "Desc": "Corrida retrô na praia com a Brasília amarela, só com relógio e data.",
+  "Author": "",
+  "License": "",
+  "Contact": "",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": "--pause-event true",
+  "IsAbsolutePath": false
+}
