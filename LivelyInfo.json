@@ -1,0 +1,14 @@
+{
+  "AppVersion": "3.0.0.0",
+  "Title": "Corrida na Praia",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": null,
+  "Desc": "Corrida retrô interativa com relógio, clima, painel, notificações e rádio do Spotify.",
+  "Author": "",
+  "License": "",
+  "Contact": "",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": "--audio --system-nowplaying --system-information --pause-event true",
+  "IsAbsolutePath": false
+}
