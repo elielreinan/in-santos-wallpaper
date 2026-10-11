@@ -17,7 +17,7 @@ Papel de parede interativo para Windows no estilo arcade retrô: uma Brasília a
 ## Instalação
 
 1. Instale o [Lively Wallpaper](https://www.rocksdanister.com/lively/), que é gratuito.
-2. Baixe `index.html`, `LivelyInfo.json` e `thumbnail.jpg` e compacte os três num `.zip`, sem pasta dentro.
+2. **[⬇️ Baixe o in-santos-wallpaper.zip](https://github.com/elielreinan/in-santos-wallpaper/raw/main/dist/in-santos-wallpaper.zip)** e não extraia o arquivo.
 3. Arraste o `.zip` para a janela do Lively, ou use **+ → Escolher arquivo**.
 4. Nas configurações do Lively, ative a entrada do mouse para o papel de parede.
 
